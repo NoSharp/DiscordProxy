@@ -21,6 +21,3 @@ def listing_handler():
 
 
 run(host = 'IP', port='PORT')
-
-
-print("LOADED." + version)
